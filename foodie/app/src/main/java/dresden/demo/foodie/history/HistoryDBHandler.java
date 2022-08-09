@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.util.ArrayList;
 
 import dresden.demo.foodie.history.HistoryModel;
-
+//what the fuck is this
 public class HistoryDBHandler extends SQLiteOpenHelper {
 
     // creating a constant variables for our database.
