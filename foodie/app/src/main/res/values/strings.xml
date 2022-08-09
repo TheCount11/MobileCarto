@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="title_activity_maps">Foodie</string>
+    <string name="title_activity_main">Foodie</string>
+    <string name="title_home">Canteen</string>
+    <string name="title_dashboard">Order</string>
+    <string name="title_notifications">Profile</string>
+</resources>
